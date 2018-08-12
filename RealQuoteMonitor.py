@@ -4,7 +4,7 @@ import multiprocessing
 import time
 import datetime
 import multiprocessing
-
+#试试github
 def currenttradestatus():
     '''
     prestart = '09:00:00'
